@@ -5,9 +5,9 @@ import "@openzeppelin/contracts/token/ERC20/ERC20.sol";
 import "@openzeppelin/contracts/token/ERC20/extensions/ERC20Burnable.sol";
 import "@openzeppelin/contracts/access/Ownable.sol";
 
-contract RolexProtocol is ERC20, ERC20Burnable, Ownable {
+contract RLXProtocol is ERC20, ERC20Burnable, Ownable {
     constructor(address initialOwner)
-        ERC20("Rolex Protocol", "RLX")
+        ERC20("RLX Protocol", "RLX")
         Ownable(initialOwner)
     {
         // Minting 21 Million RLX (like Bitcoin)
