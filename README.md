@@ -1,17 +1,10 @@
-Rolex Protocol (RLX) :
-The Official Asset of the RLX Ecosystem.
+# RLX Protocol 👑
+**Decentralized Digital Scarcity. Fixed Supply: 21M.**
 
-Tokenomics :
+The RLX Protocol represents a paradigm shift in decentralized digital scarcity. Built on the high-performance Polygon network, RLX is an ERC-20 standard luxury asset designed with an immutable, fixed supply of exactly 21,000,000 tokens.
 
-(1) Name: Rolex Protocol
-
-(2) Symbol: RLX
-
-(3) Total Supply: 21,000,000
-
-(4) Network: Polygon Amoy (Testnet)
-
-(5) Contract Address:  0xecC01cB80912A92B4806Cc733B9D47C35586a995
- 
-Developer Info : 
-This contract is fully verified on Polygonscan and follows the ERC-20 standard for decentralized luxury assets.
+### 🔗 Official Architecture
+* **Total Supply:** 21,000,000 RLX
+* **Network:** Polygon Amoy (Testnet)
+* **Contract Address:** `0xecC01cB80912A92B4806Cc733B9D47C35586a995`
+* **Security Standard:** ERC-20 OpenZeppelin
