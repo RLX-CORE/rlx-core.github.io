@@ -6,5 +6,5 @@ The RLX Protocol represents a paradigm shift in decentralized digital scarcity. 
 ### 🔗 Official Architecture
 * **Total Supply:** 21,000,000 RLX
 * **Network:** Polygon Amoy (Testnet)
-* **Contract Address:** `0xecC01cB80912A92B4806Cc733B9D47C35586a995`
+* **Contract Address:** `0x2BE6840D89bbA781CdFcEe0D7fe49Db07fbBfd20`
 * **Security Standard:** ERC-20 OpenZeppelin
